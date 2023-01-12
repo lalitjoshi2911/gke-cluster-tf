@@ -13,3 +13,4 @@ Let's assume that we have created following resources on GCP already:
   - acts as a jump host on google cloud (configured in same subnet).
   - must have terraform installed
   - can be accessed by external ip address
+  - we will run the terraform code in this machine
