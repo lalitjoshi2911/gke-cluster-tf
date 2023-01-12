@@ -2,7 +2,7 @@
   "type": "service_account",
   "project_id": "test-gke-cluster-lab",
   "private_key_id": "248e3525f76a0f9a3600d8422a00dfd5685a42db",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIsZEjtr6z----------------tvMLmK4M=\n-----END PRIVATE KEY-----\n",
+  "private_key": "-- PRIVATE KEY-----\n",
   "client_email": "terraform-gcp@test-gke-cluster-lab.iam.gserviceaccount.com",
   "client_id": "111600089938613818352",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
